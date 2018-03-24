@@ -45,3 +45,9 @@ http://neuralnetworksanddeeplearning.com/
 
 http://www.deeplearningbook.org/
 
+https://www.deeplearning.ai/
+
+https://www.kaggle.com/datasets
+
+https://github.com/awesomedata/awesome-public-datasets
+
